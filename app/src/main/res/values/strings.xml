@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="tipo_movimiento">
+        <item>Ingreso</item>
+        <item>Gasto</item>
+    </string-array>
+    <string name="app_name">EXFinalAC</string>
+</resources>
